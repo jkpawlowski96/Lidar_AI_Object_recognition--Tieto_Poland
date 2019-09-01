@@ -1,0 +1,10 @@
+- lidar-recognition
+	- README.md
+	- sources
+		- lidar-readings
+		- preprocessing
+		- neural_networks
+		- demo-application
+	- documentation
+		- pictures
+		- text
